@@ -4,13 +4,13 @@ This TODO list breaks the project into small, AI-friendly increments. Each task 
 
 ## Phase 1: Project Initialization and Hello World
 
-- [ ] Create the React + TypeScript + Vite project structure.
-- [ ] Add a minimal `Hello World` page that renders successfully in the browser.
-- [ ] Add a short `README.md` with the project name, purpose, tech stack, and local setup commands.
-- [ ] Add basic `.gitignore` rules for Node, build output, environment files, and editor files.
-- [ ] Verify the app starts locally with the Vite dev server.
-- [ ] Security check: confirm no secrets, API keys, or local environment files are committed.
-- [ ] Documentation check: document how to run the hello-world app locally.
+- [x] Create the React + TypeScript + Vite project structure.
+- [x] Add a minimal `Hello World` page that renders successfully in the browser.
+- [x] Add a short `README.md` with the project name, purpose, tech stack, and local setup commands.
+- [x] Add basic `.gitignore` rules for Node, build output, environment files, and editor files.
+- [x] Verify the app starts locally with the Vite dev server.
+- [x] Security check: confirm no secrets, API keys, or local environment files are committed.
+- [x] Documentation check: document how to run the hello-world app locally.
 
 ## Phase 2: Early Quality and CI/CD Setup
 
