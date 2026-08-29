@@ -14,14 +14,14 @@ This TODO list breaks the project into small, AI-friendly increments. Each task 
 
 ## Phase 2: Early Quality and CI/CD Setup
 
-- [ ] Add linting for TypeScript and React code.
-- [ ] Add code formatting with a consistent project style.
-- [ ] Add a basic test framework suitable for React components.
-- [ ] Add one simple test that verifies the app renders.
-- [ ] Add a CI workflow that installs dependencies, runs linting, runs tests, and builds the app.
-- [ ] Add a production build check using Vite.
-- [ ] Security check: ensure dependency install and CI do not require committed secrets.
-- [ ] Documentation check: update `README.md` with test, lint, and build commands.
+- [x] Add linting for TypeScript and React code.
+- [x] Add code formatting with a consistent project style.
+- [x] Add a basic test framework suitable for React components.
+- [x] Add one simple test that verifies the app renders.
+- [x] Add a CI workflow that installs dependencies, runs linting, runs tests, and builds the app.
+- [x] Add a production build check using Vite.
+- [x] Security check: ensure dependency install and CI do not require committed secrets.
+- [x] Documentation check: update `README.md` with test, lint, and build commands.
 
 ## Phase 3: Basic UI With Mocked Data
 

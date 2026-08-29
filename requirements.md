@@ -120,22 +120,22 @@ Suggested data models:
 
 ```ts
 type User = {
-  id: string;
-  name: string;
-};
+  id: string
+  name: string
+}
 ```
 
 ### Project
 
 ```ts
 type Project = {
-  id: string;
-  title: string;
-  description: string;
-  creatorName: string;
-  participants: string[];
-  createdAt: string;
-};
+  id: string
+  title: string
+  description: string
+  creatorName: string
+  participants: string[]
+  createdAt: string
+}
 ```
 
 ## 7. User Flow
