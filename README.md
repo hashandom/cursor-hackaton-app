@@ -23,7 +23,20 @@ npm run dev
 
 Then open the URL shown in the terminal (usually `http://localhost:5173`).
 
-You should see a **Hello World** page confirming the app is running.
+You should see the **Hackathon Project Finder** browsing screen with a grid of mocked project cards.
+
+## Current UI state (Phase 3)
+
+The app shows a simple layout with a page title, short explanation, and a responsive grid of project cards.
+
+Each card displays:
+
+- Project title
+- Short description
+- Creator name
+- Participant count
+
+Project data currently comes from a frontend mock list in `src/data/mockProjects.ts`. There is no backend yet — join/leave, name entry, and project details will be added in later phases. All project text is rendered as normal React text (not HTML injection).
 
 ## Quality checks
 
