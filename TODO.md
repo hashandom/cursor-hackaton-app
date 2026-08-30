@@ -25,14 +25,14 @@ This TODO list breaks the project into small, AI-friendly increments. Each task 
 
 ## Phase 3: Basic UI With Mocked Data
 
-- [ ] Replace the hello-world screen with a simple app layout.
-- [ ] Add a page title and short explanation of the app.
-- [ ] Create a mocked project list in the frontend.
-- [ ] Display available projects as cards.
-- [ ] Show each card's project title, short description, creator name, and participant count.
-- [ ] Add simple responsive styling for the project card grid.
-- [ ] Security check: render all project text as normal React text, not injected HTML.
-- [ ] Documentation check: document the mocked data approach and current UI state.
+- [x] Replace the hello-world screen with a simple app layout.
+- [x] Add a page title and short explanation of the app.
+- [x] Create a mocked project list in the frontend.
+- [x] Display available projects as cards.
+- [x] Show each card's project title, short description, creator name, and participant count.
+- [x] Add simple responsive styling for the project card grid.
+- [x] Security check: render all project text as normal React text, not injected HTML.
+- [x] Documentation check: document the mocked data approach and current UI state.
 
 ## Phase 4: Simple Name Entry
 
